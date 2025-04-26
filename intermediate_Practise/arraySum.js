@@ -31,7 +31,7 @@
 function findSumOfArr(arr) {
 
   let len = arr.length -1
-  console.log(len)
+  //console.log(len)
   var sumOfAllPreviousValue = 0;
   for (let i = 0; i <= len; i++ ) { 
   sumOfAllPreviousValue = sumOfAllPreviousValue + arr[i]
