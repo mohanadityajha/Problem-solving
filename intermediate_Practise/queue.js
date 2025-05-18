@@ -1,0 +1,18 @@
+let arr = ["Aditya"];
+let result = arr.pop()
+console.log(result);
+console.log(arr)
+arr.push("Mohit")
+console.log(arr)
+arr.push("Ravi")
+console.log(arr)
+arr.push("Hitesh")
+console.log(arr)
+let res = arr.shift()
+console.log(arr)
+let re = arr.shift()
+console.log(re)
+console.log(arr)
+let r = arr.shift()
+console.log(r)
+console.log(arr)
