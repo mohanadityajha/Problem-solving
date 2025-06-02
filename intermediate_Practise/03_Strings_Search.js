@@ -59,7 +59,7 @@
 // console.log(res)
 
 // JavaScript String endsWith()
-let text = "Hello world, welcome to the universe.";
-const res = text.endsWith("universe")
-console.log(res);
+// let text = "Hello world, welcome to the universe.";
+// const res = text.endsWith("universe")
+// console.log(res);
 
