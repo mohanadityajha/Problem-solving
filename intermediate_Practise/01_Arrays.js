@@ -43,4 +43,5 @@
 // Adding Array Elements
 const fruits = ["Banana", "Orange", "Apple"];
 const res = fruits.push("Mango");
-console.log(res)
+console.log(res);
+

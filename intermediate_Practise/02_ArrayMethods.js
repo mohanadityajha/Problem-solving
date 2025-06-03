@@ -75,6 +75,8 @@
 // console.log(fruits)
 
 //JavaScript Array slice()
-const fruits = ["Banana", "Orange", "Apple", "Mango"];
-const citrus = fruits.slice(1);
-console.log(citrus);
+// const fruits = ["Banana", "Orange", "Apple", "Mango"];
+// const citrus = fruits.slice(1);
+// console.log(citrus);
+
+
