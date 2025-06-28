@@ -4,3 +4,4 @@ function printEachCharcterOfString(str) {
     }
 }
 console.log(printEachCharcterOfString("Javascript"))
+
